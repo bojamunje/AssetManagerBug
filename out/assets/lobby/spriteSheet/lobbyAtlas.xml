@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="lobbyAtlas.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="MagicBellClassic"	x="0"	y="881"	width="188"	height="124" frameX="-0" frameY="-0" frameWidth="188" frameHeight="124"/>
+	<SubTexture name="MagicBellDeluxe"	x="189"	y="881"	width="188"	height="124" frameX="-0" frameY="-0" frameWidth="188" frameHeight="124"/>
+	<SubTexture name="OKButton"	x="515"	y="881"	width="136"	height="56" frameX="-0" frameY="-0" frameWidth="136" frameHeight="56"/>
+	<SubTexture name="button_Exit"	x="378"	y="881"	width="136"	height="56" frameX="-0" frameY="-0" frameWidth="136" frameHeight="56"/>
+	<SubTexture name="lobbyBackgroundHD"	x="0"	y="0"	width="800"	height="600" frameX="-0" frameY="-0" frameWidth="800" frameHeight="600"/>
+	<SubTexture name="lobbyButtonLogin"	x="378"	y="938"	width="136"	height="56" frameX="-0" frameY="-0" frameWidth="136" frameHeight="56"/>
+	<SubTexture name="lobbyButtonLogout"	x="515"	y="938"	width="136"	height="56" frameX="-0" frameY="-0" frameWidth="136" frameHeight="56"/>
+	<SubTexture name="lobbyFrameGames"	x="0"	y="601"	width="496"	height="244" frameX="-0" frameY="-0" frameWidth="496" frameHeight="244"/>
+	<SubTexture name="lobbyFrameLogin"	x="497"	y="601"	width="450"	height="279" frameX="-0" frameY="-0" frameWidth="450" frameHeight="279"/>
+	<SubTexture name="lobbyLogin"	x="801"	y="0"	width="450"	height="279" frameX="-0" frameY="-0" frameWidth="450" frameHeight="279"/>
+</TextureAtlas>

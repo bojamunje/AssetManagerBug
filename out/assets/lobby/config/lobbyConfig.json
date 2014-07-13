@@ -1,0 +1,90 @@
+{
+    "config": {
+        "lobby": {
+            "lobbyName": "LobbyCasino" ,
+            "serverConfig": {
+                "ip": "46.163.106.203",
+                "port": "9988"
+            },
+            "serverConfigL": {
+                "ip": "127.0.0.1",
+                "port": "9999"
+            },
+
+            "clientVersion":  "1.5" ,
+            "updateFolder": "/LASTVERSION"
+        },
+        "uiConfig": {
+            "lobby": {
+                "displayError": {
+                    "textField": {
+                        "x": "32",
+                        "y": "64"
+                    },
+                    "border": {
+                        "x": "0",
+                        "y": "0"
+                    }
+                },
+                "frameGames": {
+                    "x": "150",
+                    "y": "160"
+                },
+                "buttonGameMagicBellClassic": {
+                    "x": "200",
+                    "y": "220"
+                },
+                "buttonGameMagicBellDeluxe": {
+                    "x": "400",
+                    "y": "220"
+                },
+                "buttonLogout": {
+                    "x": "661",
+                    "y": "542"
+                },
+                "bg": {
+                    "x": "0",
+                    "y": "0"
+                },
+                "frameLogin": {
+                    "x": "175",
+                    "y": "154"
+                },
+                "frameBoxesLogin": {
+                    "x": "175",
+                    "y": "154"
+                },
+                "buttonLogin": {
+                    "x": "335",
+                    "y": "355"
+                },
+                "buttonExit": {
+                    "x": "661",
+                    "y": "542"
+                },
+                "textUsername": {
+                    "-width": "230",
+                    "x": "315",
+                    "y": "205"
+                },
+                "textPassword": {
+                    "-width": "230",
+                    "x": "315",
+                    "y": "286"
+                },
+                "textBalance": {
+                    "x": "200",
+                    "y": "550"
+                },
+                "errorBox": {
+                    "x": "150",
+                    "y": "160"
+                }
+            }
+        },
+        "notifications":{
+            "connectionError":"There is no internet connection",
+            "connectionEstablished":"Connection Successful"
+        }
+    }
+}
